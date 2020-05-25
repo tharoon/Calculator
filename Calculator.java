@@ -11,7 +11,7 @@ class Calculator{
     int c = a * b;
     System.out.println(c);
   }
-  public void multiply(int a, int b){
+  public void divide(int a, int b){
     int c = a / b;
     System.out.println(c);
   }
