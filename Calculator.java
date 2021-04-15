@@ -15,7 +15,6 @@ class Calculator{
     int c = a / b;
     System.out.println(c);
   }
-  
   public String message(){
     return "Vanakam Ulagam!";
   }
